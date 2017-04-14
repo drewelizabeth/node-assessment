@@ -9,7 +9,7 @@ userData.subscribe(userData => {
 })
 
 function index() {
-  return users
+  return users;
 }
 
 function genId() {
